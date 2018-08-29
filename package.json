@@ -1,8 +1,6 @@
 {
-    "title": "Modern Business",
-    "name": "startbootstrap-modern-business",
+    "title": "SOAR",
     "version": "4.1.1",
-    "description": "A multipurpose HTML website template built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -19,7 +17,7 @@
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Michael London (https://michaelondon.info/)"
     ],
     "repository": {
         "type": "git",
