@@ -9,19 +9,15 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/modern-business",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business/issues",
-        "email": "feedback@startbootstrap.com"
+    "homepage": "https://github.com/michaelondon/SOAR",
+        "email": "michaelondon6@gmail.com"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
     "contributors": [
         "Michael London (https://michaelondon.info/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business.git"
+        "url": "https://github.com/michaelondon/SOAR"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
