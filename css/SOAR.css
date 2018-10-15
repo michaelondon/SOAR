@@ -2,27 +2,23 @@
  * 
  */
 
-body {
-  padding-top: 100px;
 
-  }
 
 
 @media (min-width: 500px) {
   body {
-    padding-top: 0px;
+    padding-width: 50px;
+
   }
 }
 
-.about {
-
-  color: #FFFFFF
-  } 
+.column {
+        width: 50%;
+      }
 
 .carousel-item {
-  padding-top: 300px;
-  
-  min-height: 400px;
+  padding-top: 350px;
+  min-height: 300px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -30,6 +26,13 @@ body {
   background-size: cover;
 }
 
+.about {
+  color: #D3D774
+  } 
+
+.events {
+  padding-width: 10px}
+
 .portfolio-item {
-  margin-bottom: 80px;
+  margin-bottom: 100px;
 }
